@@ -1,6 +1,5 @@
 <h1 align="center"> ⚡ Wellcome ⚡ </h1>
 <h3 align="center">I'm a Computer Science student now exploring data analysis 🎲</h3>
-<a href="https://drive.google.com/file/d/1er9uDZJfRvFB8QazkWLhPmZbPGvxyu6q/view?usp=drivesdk" align="center">Click here to access my CV (Portuguese)</a>
 
 ### Former Experiences:
 <ul>
@@ -8,6 +7,8 @@
 <li>Robotics 🤖
 <li>Web Developement (Backend) 🌍
 </ul>
+
+<a href="https://drive.google.com/file/d/1er9uDZJfRvFB8QazkWLhPmZbPGvxyu6q/view?usp=drivesdk">Click here to access my CV (Portuguese)</a>
 
 ### Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggtxz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
