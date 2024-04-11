@@ -1,5 +1,6 @@
 <h1 align="center"> ⚡ Wellcome ⚡ </h1>
 <h3 align="center">I'm a Computer Science student now exploring data analysis 🎲</h3>
+<a href="https://drive.google.com/file/d/1er9uDZJfRvFB8QazkWLhPmZbPGvxyu6q/view?usp=drivesdk" align="center">Click here to access my CV (Portuguese)</a>
 
 ### Former Experiences:
 <ul>
