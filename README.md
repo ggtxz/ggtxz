@@ -1,4 +1,4 @@
-<h1 align="center"> ⚡ Wellcome ⚡ </h1>
+<h1 align="center"> ⚡ Welcome ⚡ </h1>
 <h3 align="center">I'm a Computer Science student now exploring data analysis 🎲</h3>
 
 ### Former Experiences:
