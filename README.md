@@ -1,5 +1,5 @@
 <h1 align="center"> ⚡ Welcome ⚡ </h1>
-<h3 align="center">I'm a Computer Science student now exploring data analysis 🎲</h3>
+<h3 align="center">I'm a Computer Science student and a backend developer, exploring infra and cloud</h3>
 
 ### Former Experiences:
 <ul>
