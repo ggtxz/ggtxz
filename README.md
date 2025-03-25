@@ -1,5 +1,5 @@
 <h1 align="center"> ⚡ Welcome ⚡ </h1>
-<h3 align="center">I'm a Computer Science student and a embedded systems developer, exploring cybersecurite and drones</h3>
+<h3 align="center">I'm a Computer Science student and a embedded systems developer, exploring cybersecurite</h3>
 
 ### Former Experiences:
 <ul>
