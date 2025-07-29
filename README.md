@@ -8,7 +8,7 @@
 <li>Web Developement (Backend) 🌍
 </ul>
 
-<a href="https://drive.google.com/file/d/1er9uDZJfRvFB8QazkWLhPmZbPGvxyu6q/view?usp=drivesdk" target="_blank">Click here to access my CV (Portuguese)</a>
+<a href="https://drive.google.com/file/d/1h0UigHcUh8cxJ_xigdgF_UpB-hcz1IUK/view?usp=sharing" target="_blank">Click here to access my CV (Portuguese)</a>
 
 ### Stats:
 ![ggtxz's Stats](https://github-readme-stats.vercel.app/api?username=ggtxz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
