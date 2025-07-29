@@ -11,15 +11,15 @@
 <a href="https://drive.google.com/file/d/1er9uDZJfRvFB8QazkWLhPmZbPGvxyu6q/view?usp=drivesdk" target="_blank">Click here to access my CV (Portuguese)</a>
 
 ### Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ggtxz&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![ggtxz's Stats](https://github-readme-stats.vercel.app/api?username=ggtxz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ggtxz&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+![ggtxz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=ggtxz&theme=vue-dark&hide_border=true)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ggtxz&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+![ggtxz's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ggtxz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ### Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-gimenez-706277189/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ggtxz/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ggtxz)
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:ggimenezt@gmail.com)
 
