@@ -91,7 +91,7 @@ Thesis: *Bluetooth-Controlled Waste Collection and Sorting Robot*
 
 <p align="center">
   <img src="https://github-readme-stats-alpha-six-91.vercel.app/api?username=ggtxz&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" height="150" />
-  <img src="https://streak-stats.demolab.com?user=ggtxz&theme=vue-dark&hide_border=true" height="150" />
+  <img src="./streak-stats.svg" height="150" />
   <img src="https://github-readme-stats-alpha-six-91.vercel.app/api/top-langs/?username=ggtxz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" height="150" />
 </p>
 
