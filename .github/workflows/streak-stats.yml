@@ -2,22 +2,20 @@ name: GitHub Streak Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # roda todo dia à meia-noite
-  workflow_dispatch:       # permite rodar manualmente
+    - cron: "0 0 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - uses: DenverCoder1/github-readme-streak-stats@main
         with:
-          user: ggtxz
           token: ${{ secrets.TOKEN }}
-          output_path: streak-stats.svg
-          theme: vue-dark
-          hide_border: true
+          path: streak-stats.svg
+          options: "user=ggtxz&theme=vue-dark&hide_border=true"
 
       - uses: EndBug/add-and-commit@v9
         with:
