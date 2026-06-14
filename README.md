@@ -23,7 +23,7 @@ Evaluated ML-KEM (FIPS 203), the post-quantum key exchange standard finalized by
 
 The work contributes a joint evaluation of performance, energy, and memory in a controlled embedded environment, and a practical architecture for quantum-safe IoT communication, addressing gaps in prior literature that evaluated metrics in isolation or used pre-standardization algorithm versions.
 
-I'm actively pursuing further research in this space: optimizing PQC implementations for memory-constrained devices, integrating post-quantum signature schemes (ML-DSA), and extending the evaluation to other embedded platforms.
+I'm actively pursuing further research in this space: optimizing PQC implementations for memory-constrained devices, integrating post-quantum signature schemes (ML-DSA), and extending the evaluation to other embedded platforms
 
 🔗 **[Source code & benchmarks](https://github.com/ggtxz/MLKEM-on-ESP32)**
 
